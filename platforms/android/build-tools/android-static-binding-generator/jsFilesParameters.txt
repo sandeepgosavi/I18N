@@ -1,0 +1,2 @@
+D:\NativeScript\i18n\platforms\android\src\main\assets\app\app.component.js
+D:\NativeScript\i18n\platforms\android\src\main\assets\app\app.module.js

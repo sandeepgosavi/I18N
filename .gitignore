@@ -1,0 +1,37 @@
+# Logs
+logs
+*.log
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
+
+# Dependency directory
+# Commenting this out is preferred by some people, see
+# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git-
+node_modules
+typings
+ts-node
+
+# Users Environment Variables
+.lock-wscript
+.tsdrc
+.typingsrc
+
+#IDE configuration files
+.idea
+*.iml
+.vscode/angulardoc.json
+
+nativescript/hooks
+nativescript/node_modules
+nativescript/platforms
+nativescript/**/*.js
+nativescript/**/*.js.map
+nativescript/*.d.ts
+!nativescript/references.d.ts
+
+#VSCode Chrome Debugger Extension (launch.json configuration)
+ChromeDebugger-UserData
+
+# OS X trash files
+.DS_Store
